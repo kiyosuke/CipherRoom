@@ -1,6 +1,6 @@
 # CipherRoom
 
-Implements the Support interfaces of Room with SQLCipher.
+Implements the Support interfaces of Room with [SQLCipher for Android.](https://www.zetetic.net/sqlcipher/sqlcipher-for-android/)
 
 ## Usage
 This library provide `CipherRoomFactory`.
