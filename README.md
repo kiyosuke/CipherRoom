@@ -4,7 +4,7 @@ Implements the Support interfaces of Room with [SQLCipher for Android.](https://
 
 ## Caution
 
-SQLCipher for Android supported Room from version '4.3.0', so we have to use that.
+SQLCipher for Android supported Room from version '4.3.0', so we have to use that.  
 https://github.com/sqlcipher/android-database-sqlcipher#using-sqlcipher-for-android-with-room
 
 ## Usage
